@@ -20,7 +20,6 @@ para aplicar meus conhecimentos, crescer profissionalmente e inovar.
     <a href="https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/">
         <img alt="Conexões no LinkedIn" title="Me conecte no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -62,9 +61,6 @@ para aplicar meus conhecimentos, crescer profissionalmente e inovar.
 <br clear="left"/>
 
 ---
-
----
-
 ### 📊 Estatísticas:
 
 <p>
