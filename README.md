@@ -14,6 +14,17 @@ Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futu
          <img alt="Total de estrelas Github" title="Total de estrelas Github" src="https://custom-icon-badges.demolab.com/github/stars/leticiasantos-dev5?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+   <p align="left">
+    <a href="https://github.com/leticiasantos-dev5">
+        <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/leticiasantos-dev5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-&label=seguidores&logoColor=white"/></a>
+    <a href="https://github.com/leticiasantos-dev5">
+        <img alt="Total de estrelas Github" title="Total de estrelas Github" src="https://custom-icon-badges.demolab.com/github/stars/leticiasantos-dev5?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://www.instagram.com/let.devs/">
+        <img alt="Seguidores no Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-Seguidores-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/">
+        <img alt="Conexões no LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conex%C3%B5es-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 
 
 
