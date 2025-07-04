@@ -13,9 +13,9 @@ Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futu
     <a href="https://github.com/leticiasantos-dev5">
         <img alt="Total de estrelas Github" title="Total de estrelas Github" src="https://custom-icon-badges.demolab.com/github/stars/leticiasantos-dev5?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     <a href="https://www.instagram.com/let.devs/">
-        <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-let.devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+        <img alt="Seguidores no Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-let.devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/">
-        <img alt="LinkedIn" title="Me conecte no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <img alt="Conexões no LinkedIn" title="Me conecte no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
