@@ -9,7 +9,8 @@ Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futu
 
 <p align="left">
     <a href="https://github.com/leticiasantos-dev5">
-        <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/leticiasantos-dev5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-&label=seguidores&logoColor=white"/></a>
+        <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/leticiasantos-dev5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-&label=seguidores&logoColor=white"/>
+        color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-&label=seguidores&logoColor=white"/></a>
     <a href="https://github.com/leticiasantos-dev5">
         <img alt="Total de estrelas Github" title="Total de estrelas Github" src="https://custom-icon-badges.demolab.com/github/stars/leticiasantos-dev5?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     <a href="https://www.instagram.com/let.devs/">
