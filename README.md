@@ -2,10 +2,13 @@
 **`Estudante Desenvolvedora WEB`**
 
 Olá! 👋 Me chamo Letícia Santos da Silva, tenho 19 anos e faço graduação no curso de Gestão da Informação na UFPR.
-
-Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade, onde vi como a comunicação visual e a criação de sites unem lógica e criatividade, através de uma participação em um TCC no curso técnico em Administração.
-Meu linkedin "[letícia-santos-silva-dev5](https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/)", onde busco oportunidades, e também através do Instagram, com o perfil chamado "[let.devs](https://www.instagram.com/let.devs/?next=%2F)".
-Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitais impactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.
+Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade, 
+onde vi como a comunicação visual e a criação de sites unem lógica e criatividade, através de uma participação em
+um TCC no curso técnico em Administração.Meu linkedin "[letícia-santos-silva-dev5](https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/)", 
+onde busco oportunidades, e também através do Instagram, com o perfil chamado "[let.devs](https://www.instagram.com/let.devs/?next=%2F)".
+Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitais
+impactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web 
+para aplicar meus conhecimentos, crescer profissionalmente e inovar.
 
 <p align="left">
     <a href="https://github.com/leticiasantos-dev5">
@@ -45,6 +48,14 @@ Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futu
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="GitHub" 
+        title="GitHub"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
     />
 </p>
 
