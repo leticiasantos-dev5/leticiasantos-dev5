@@ -18,9 +18,10 @@ Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futu
         <img alt="Conexões no LinkedIn" title="Me conecte no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 ---
-   ### 🤖 Linguagens e Tecnologias
 
-   <p align="left">
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
     <img 
         align="left" 
         alt="HTML"
@@ -45,10 +46,9 @@ Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futu
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
-    </p>
+</p>
 
-<br clear="left"/> ---
+<br clear="left"/>
 
-
-
+---
 
