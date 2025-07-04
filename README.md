@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Letícia Santos
-**`Estudante Desenvolvedora WEB`**
+**`Gestão da Informação UFPR - Desenvolvimento WEB`**
 
 Olá! 👋 Me chamo Letícia Santos da Silva, tenho 19 anos e faço graduação no curso de Gestão da Informação na UFPR.
 Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade, 
@@ -87,4 +87,7 @@ para aplicar meus conhecimentos, crescer profissionalmente e inovar.
 <br clear="left"/>
 
 ---
+### Contribuições no GitHub
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=leticiasantos-dev5&theme=tokyonight)
 
