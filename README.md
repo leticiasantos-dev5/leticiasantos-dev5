@@ -1,4 +1,4 @@
-<h1 align="center">Olá!  Sejam bem-vindos ao meu Github!</h1>
+<h1 align="center">Olá! Sejam bem-vindos ao meu Github!</h1>
 
 ###
 
@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leticiasantos-dev5/leticiasantos-dev5/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/leticiasantos-dev5/leticiasantos-dev5/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
