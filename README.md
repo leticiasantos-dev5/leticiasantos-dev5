@@ -1,89 +1,68 @@
-# 👩🏻‍💻 Letícia Santos
-**`Gestão da Informação UFPR - Desenvolvimento WEB`**
+<h1 align="center">Olá!  Sejam bem-vindos ao meu Github!</h1>
 
-Olá! 👋 Me chamo Letícia Santos da Silva, tenho 19 anos e faço graduação no curso de Gestão da Informação na UFPR.
-Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade, 
-onde vi como a comunicação visual e a criação de sites unem lógica e criatividade, através de uma participação em
-um TCC no curso técnico em Administração. Meu linkedin "[letícia-santos-silva-dev5](https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/)", 
-onde busco oportunidades, e também através do Instagram, com o perfil chamado "[let.devs](https://www.instagram.com/let.devs/?next=%2F)".
-Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitais
-impactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web 
-para aplicar meus conhecimentos, crescer profissionalmente e inovar.
+###
 
-<p align="left">
-    <a href="https://github.com/leticiasantos-dev5">
-        <img alt="Seguidores Github" title="Me siga no Github" src="https://img.shields.io/github/followers/leticiasantos-dev5?label=Seguidores&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white"/></a>
-    <a href="https://github.com/leticiasantos-dev5">
-        <img alt="Total de estrelas Github" title="Total de estrelas Github" src="https://custom-icon-badges.demolab.com/github/stars/leticiasantos-dev5?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    <a href="https://www.instagram.com/let.devs/">
-        <img alt="Seguidores no Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-let.devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/">
-        <img alt="Conexões no LinkedIn" title="Me conecte no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<h3 align="left">Gestão da Informação UFPR - Desenvolvimento WEB</h3>
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<p align="left">
-    <img 
-        align="left" 
-        alt="HTML"
-        title="HTML" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Git" 
-        title="Git"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="GitHub" 
-        title="GitHub"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-    />
-</p>
+<h4 align="left">👩🏻‍💻 Letícia Santos</h4>
 
-<br clear="left"/>
+###
 
----
-### 📊 Estatísticas:
+<p align="left">Olá! 👋 Me chamo Letícia Santos da Silva, tenho 19 anos e faço graduação no curso de Gestão da Informação na UFPR. Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade,</p>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leticiasantos-dev5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+###
 
-  <img 
-    align="left" 
-    alt="GitHub Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasantos-dev5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiasantos-dev5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiasantos-dev5&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" height="144" alt="languages graph"  />
+</div>
 
-<br clear="left"/>
+###
 
----
-### Contribuições no GitHub
+<p align="left">Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitaisimpactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=leticiasantos-dev5&theme=tokyonight)
+###
 
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="34" alt="gimp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="canva logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/let.devs/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
+  </a>
+  <a href="mailto:leticiasantos4118@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/leticiasantos-dev5/leticiasantos-dev5/output/snake.svg" alt="Snake animation" />
+
+###
