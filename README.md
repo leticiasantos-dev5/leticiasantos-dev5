@@ -53,6 +53,6 @@
 
 ###
 
-<p align="left">Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitaisimpactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
+<p align="left"> Estou focada em me  especializar na área do Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitais impactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
 
 ###
