@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sejam bem-vindos ao meu Github!</h1>
+<h1 align="center">👩🏻‍💻Olá!  Sejam bem-vindos ao meu Github!</h1>
 
 ###
 
@@ -6,22 +6,7 @@
 
 ###
 
-<h4 align="left">👩🏻‍💻 Letícia Santos</h4>
-
-###
-
 <p align="left">Olá! 👋 Me chamo Letícia Santos da Silva, tenho 19 anos e faço graduação no curso de Gestão da Informação na UFPR. Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade,</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticiasantos-dev5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiasantos-dev5&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" height="144" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitaisimpactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
 
 ###
 
@@ -61,8 +46,13 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiasantos-dev5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiasantos-dev5&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" height="144" alt="languages graph"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/leticiasantos-dev5/leticiasantos-dev5/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+###
+
+<p align="left">Focada em Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitaisimpactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
 
 ###
