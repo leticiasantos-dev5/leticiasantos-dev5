@@ -19,6 +19,12 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
@@ -55,6 +61,6 @@
 
 ###
 
-<p align="left">Estou focada em me especializar na área de **Front-end**, mas também me aventurando no **Back-end** com **MySQL** para entender melhor a gestão de dados. Aprofundo meus conhecimentos em HTML e CSS, e futuramente em JavaScript, para construir interfaces e experiências digitais impactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar o que aprendo, crescer profissionalmente e inovar.</p>
+<p align="left">Estou focada em me especializar na área de **Desenvolvimento Web**, com foco em **Front-end**. Minha jornada inclui aprofundar meus conhecimentos em HTML, CSS e **JavaScript**, além de explorar frameworks como **React** e a plataforma **Node.js**. Também estou me familiarizando com **MySQL** para gerenciar banco de dados. Meu objetivo é atuar como desenvolvedora, combinando design, programação e marketing para criar experiências digitais impactantes. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
 
 ###
