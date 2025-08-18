@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻Olá!  Sejam bem-vindos ao meu Github!</h1>
+<h1 align="center">👩🏻‍💻Olá! Sejam bem-vindos ao meu Github!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Olá! 👋 Me chamo Letícia Santos da Silva, tenho 19 anos e faço graduação no curso de Gestão da Informação na UFPR. Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade,</p>
+<p align="left">Olá! 👋 Me chamo Letícia Santos da Silva, tenho 19 anos e faço graduação no curso de Gestão da Informação na UFPR. Minha paixão pela tecnologia e pelo Desenvolvimento Web começou na transição do ensino médio para a universidade.</p>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
   <img width="15" />
@@ -53,6 +55,6 @@
 
 ###
 
-<p align="left"> Estou focada em me  especializar na área do Front-end, estou aprofundando meus conhecimentos em HTML e CSS, e futuramente JavaScript, para construir interfaces e experiências digitais impactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
+<p align="left">Estou focada em me especializar na área de **Front-end**, mas também me aventurando no **Back-end** com **MySQL** para entender melhor a gestão de dados. Aprofundo meus conhecimentos em HTML e CSS, e futuramente em JavaScript, para construir interfaces e experiências digitais impactantes. Meu objetivo é atuar como Desenvolvedora Front-end, combinando design, programação e marketing. Busco um estágio em Desenvolvimento Web para aplicar o que aprendo, crescer profissionalmente e inovar.</p>
 
 ###
