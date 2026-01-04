@@ -42,7 +42,7 @@
   <a href="https://www.instagram.com/let.devs/?next=%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
   </a>
-  <a href="mailto:leticiasantos4118@gmail.com" target="_blank">
+  <a href="mailto:leticia.santossilva.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/let%C3%ADcia-santos-silva-dev5/" target="_blank">
@@ -60,5 +60,3 @@
 ###
 
 <p align="left">Estou focada em me especializar em **Front-end**, aprofundando meus conhecimentos em **HTML**, **CSS** e agora explorando o poder do **JavaScript**. Também estou me familiarizando com **Node.js** para o ambiente de execução e **MySQL** para gerenciar banco de dados. Meu objetivo é atuar como desenvolvedora, combinando design, programação e marketing para criar experiências digitais impactantes. Busco um estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e inovar.</p>
-
-###
