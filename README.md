@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Gestão da Informação UFPR - Desenvolvimento WEB</h3>
+<h3 align="left">Estudante de Análise e Desenvolvimento de Sistemas e Gestão da Informação UFPR - Desenvolvimento WEB</h3>
 
 ###
 
